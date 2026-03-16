@@ -5,3 +5,5 @@ We sought to test whether we could create a model that could separate audio into
 
 ## How to Run
 Clone the repository locally and use the Google Colab extension to run. If run locally, you will need to ignore cells that deal with Google Drive Setup.
+
+You may use the finetuner weights we ended with as stored in `finetuner.pth` to start you own training of the DEMUCS model, though you may need to modify file paths to access it from the notebooks.
